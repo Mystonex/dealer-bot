@@ -33,14 +33,6 @@ Discord helper for planning guild activities with **one-tap joins**, **live coun
 
 ---
 
-## 📸 Screens (placeholder)
-_Add screenshots/GIFs here:_
-- Event Hub with weekly schedule + resets  
-- Event card with Join/Leave buttons  
-- Planning thread + reminder pings
-
----
-
 ## 🚀 Quick start (local)
 
     git clone https://github.com/Mystonex/dealer-bot.git
